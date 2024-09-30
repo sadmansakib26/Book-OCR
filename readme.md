@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-To use the script, run it from the command line with the following syntax:
+To use the script, place the pdf file in the same directory and run it from the command line with the following syntax:
 
 ```
 python script.py --pdf_name <input_pdf> [--doc_name <output_docx>] [--tex_name <output_tex>]
