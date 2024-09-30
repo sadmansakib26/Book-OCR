@@ -1,0 +1,7 @@
+python-docx
+transformers
+PyMuPDF
+Pillow
+accelerate
+tiktoken
+verovio
