@@ -1,4 +1,4 @@
-# Document (PDF) Optical Characeter Recognition
+# Document (PDF) Optical Character Recognition
 
 Converts .pdf files to .docx and .tex formats using the GOT-OCR2_0 model for text extraction and formatting.
 
